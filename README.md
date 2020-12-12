@@ -4,4 +4,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 
 ### Day 1
 
-[Expanding Cards](https://github.com/bayramhayri/50projects50days/tree/master/01-expanding-cards).
+Expanding Cards [Live Demo](https://eager-lalande-b4a1d1.netlify.app/) [Code](https://github.com/bayramhayri/50projects50days/tree/master/01-expanding-cards)
