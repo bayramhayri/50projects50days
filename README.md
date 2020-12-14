@@ -9,3 +9,7 @@ Expanding Cards [Live Demo](https://eager-lalande-b4a1d1.netlify.app/), [Code](h
 ### Day 2
 
 Progress Steps [Live Demo](https://lucid-kilby-ff041d.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/02-progress-steps)
+
+### Day 3
+
+Progress Steps [Live Demo](https://quirky-montalcini-0458a3.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/03-rotating-navigation)
