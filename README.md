@@ -12,4 +12,8 @@ Progress Steps [Live Demo](https://lucid-kilby-ff041d.netlify.app/), [Code](http
 
 ### Day 3
 
-Progress Steps [Live Demo](https://quirky-montalcini-0458a3.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/03-rotating-navigation)
+Rotating Navigation [Live Demo](https://quirky-montalcini-0458a3.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/03-rotating-navigation)
+
+### Day 4
+
+Hidden Search [Live Demo](https://dreamy-goldberg-4112b5.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/04-hidden-search)
