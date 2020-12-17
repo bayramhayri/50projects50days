@@ -21,3 +21,7 @@ Hidden Search [Live Demo](https://dreamy-goldberg-4112b5.netlify.app/), [Code](h
 ### Day 5
 
 Blurry Loading [Live Demo](https://adoring-leavitt-b5120b.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/05-blurry-loading)
+
+### Day 6
+
+Scroll Animation [Live Demo](https://tender-golick-795b56.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/06-scroll-animation)
