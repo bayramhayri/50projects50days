@@ -25,3 +25,11 @@ Blurry Loading [Live Demo](https://adoring-leavitt-b5120b.netlify.app/), [Code](
 ### Day 6
 
 Scroll Animation [Live Demo](https://tender-golick-795b56.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/06-scroll-animation)
+
+### Day 7
+
+Split Landing Page [Live Demo](https://friendly-meitner-956f5b.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/07-split-landing-page)
+
+### Day 8
+
+Form Wave Animation [Live Demo](https://xenodochial-bartik-dcdcb6.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/08-form-wave-animation)
