@@ -33,3 +33,7 @@ Split Landing Page [Live Demo](https://friendly-meitner-956f5b.netlify.app/), [C
 ### Day 8
 
 Form Wave Animation [Live Demo](https://xenodochial-bartik-dcdcb6.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/08-form-wave-animation)
+
+### Day 9
+
+Sound Board [Live Demo](https://eager-turing-3f2596.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/09-sound-board)
