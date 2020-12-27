@@ -37,3 +37,7 @@ Form Wave Animation [Live Demo](https://xenodochial-bartik-dcdcb6.netlify.app/),
 ### Day 9
 
 Sound Board [Live Demo](https://eager-turing-3f2596.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/09-sound-board)
+
+### Day 10
+
+Sound Board [Live Demo](https://trusting-jepsen-74df39.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/10-dad-jokes)
