@@ -41,3 +41,7 @@ Sound Board [Live Demo](https://eager-turing-3f2596.netlify.app/), [Code](https:
 ### Day 10
 
 Sound Board [Live Demo](https://trusting-jepsen-74df39.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/10-dad-jokes)
+
+### Day 11
+
+Event KeyCodes [Live Demo](https://dreamy-pare-5f7d30.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/11-event-keycodes)
