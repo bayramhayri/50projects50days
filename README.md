@@ -45,3 +45,7 @@ Sound Board [Live Demo](https://trusting-jepsen-74df39.netlify.app/), [Code](htt
 ### Day 11
 
 Event KeyCodes [Live Demo](https://dreamy-pare-5f7d30.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/11-event-keycodes)
+
+### Day 12
+
+FAQ Collapse [Live Demo](https://confident-clarke-9d121b.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/12-faq-collapse)
