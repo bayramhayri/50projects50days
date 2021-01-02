@@ -53,3 +53,7 @@ FAQ Collapse [Live Demo](https://confident-clarke-9d121b.netlify.app/), [Code](h
 ### Day 13
 
 Random Choice Picker [Live Demo](https://cocky-swartz-58cb70.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/13-random-choice-picker)
+
+### Day 14
+
+Random Choice Picker [Live Demo](https://jovial-carson-16ac5e.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/14-animated-navigation)
