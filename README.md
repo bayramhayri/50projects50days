@@ -66,6 +66,6 @@ Increment Counter [Live Demo](https://gracious-hermann-2b1c19.netlify.app/), [Co
 
 Drink Water [Live Demo](https://frosty-franklin-b80711.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/16-drink-water)
 
-### Day 16
+### Day 17
 
 Movie App [Live Demo](https://suspicious-albattani-3d4fc3.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/17-movie-app)
