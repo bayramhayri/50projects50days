@@ -69,3 +69,7 @@ Drink Water [Live Demo](https://frosty-franklin-b80711.netlify.app/), [Code](htt
 ### Day 17
 
 Movie App [Live Demo](https://suspicious-albattani-3d4fc3.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/17-movie-app)
+
+### Day 18
+
+Background Slider [Live Demo](https://vigorous-lamarr-2890f7.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/18-background-slider)
