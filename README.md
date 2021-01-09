@@ -2,74 +2,24 @@
 
 My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](https://www.udemy.com/course/50-projects-50-days/) course on udemy.com.
 
-### Day 1
-
-Expanding Cards [Live Demo](https://eager-lalande-b4a1d1.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/01-expanding-cards)
-
-### Day 2
-
-Progress Steps [Live Demo](https://lucid-kilby-ff041d.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/02-progress-steps)
-
-### Day 3
-
-Rotating Navigation [Live Demo](https://quirky-montalcini-0458a3.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/03-rotating-navigation)
-
-### Day 4
-
-Hidden Search [Live Demo](https://dreamy-goldberg-4112b5.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/04-hidden-search)
-
-### Day 5
-
-Blurry Loading [Live Demo](https://adoring-leavitt-b5120b.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/05-blurry-loading)
-
-### Day 6
-
-Scroll Animation [Live Demo](https://tender-golick-795b56.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/06-scroll-animation)
-
-### Day 7
-
-Split Landing Page [Live Demo](https://friendly-meitner-956f5b.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/07-split-landing-page)
-
-### Day 8
-
-Form Wave Animation [Live Demo](https://xenodochial-bartik-dcdcb6.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/08-form-wave-animation)
-
-### Day 9
-
-Sound Board [Live Demo](https://eager-turing-3f2596.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/09-sound-board)
-
-### Day 10
-
-Sound Board [Live Demo](https://trusting-jepsen-74df39.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/10-dad-jokes)
-
-### Day 11
-
-Event KeyCodes [Live Demo](https://dreamy-pare-5f7d30.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/11-event-keycodes)
-
-### Day 12
-
-FAQ Collapse [Live Demo](https://confident-clarke-9d121b.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/12-faq-collapse)
-
-### Day 13
-
-Random Choice Picker [Live Demo](https://cocky-swartz-58cb70.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/13-random-choice-picker)
-
-### Day 14
-
-Animated Navigation [Live Demo](https://jovial-carson-16ac5e.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/14-animated-navigation)
-
-### Day 15
-
-Increment Counter [Live Demo](https://gracious-hermann-2b1c19.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/15-increment-counter)
-
-### Day 16
-
-Drink Water [Live Demo](https://frosty-franklin-b80711.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/16-drink-water)
-
-### Day 17
-
-Movie App [Live Demo](https://suspicious-albattani-3d4fc3.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/17-movie-app)
-
-### Day 18
-
-Background Slider [Live Demo](https://vigorous-lamarr-2890f7.netlify.app/), [Code](https://github.com/bayramhayri/50projects50days/tree/master/18-background-slider)
+|  #  | Code                                                                                                                 | Live Demo                                                     |
+| :-: | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/bayramhayri/50projects50days/tree/master/01-expanding-cards/)                   | [Live Demo](https://eager-lalande-b4a1d1.netlify.app/)        |
+| 02  | [Progress Steps](https://github.com/bayramhayri/50projects50days/tree/master/02-progress-steps/)                     | [Live Demo](https://lucid-kilby-ff041d.netlify.app/)          |
+| 03  | [Rotating Navigation Animation](https://github.com/bayramhayri/50projects50days/tree/master/03-rotating-navigation/) | [Live Demo](https://quirky-montalcini-0458a3.netlify.app/)    |
+| 04  | [Hidden Search Widget](https://github.com/bayramhayri/50projects50days/tree/master/04-hidden-search/)                | [Live Demo](https://dreamy-goldberg-4112b5.netlify.app/)      |
+| 05  | [Blurry Loading](https://github.com/bayramhayri/50projects50days/tree/master/05-blurry-loading)                      | [Live Demo](https://adoring-leavitt-b5120b.netlify.app/)      |
+| 06  | [Scroll Animation](https://github.com/bayramhayri/50projects50days/tree/master/06-scroll-animation/)                 | [Live Demo](https://tender-golick-795b56.netlify.app/)        |
+| 07  | [Split Landing Page](https://github.com/bayramhayri/50projects50days/tree/master/07-split-landing-page/)             | [Live Demo](https://friendly-meitner-956f5b.netlify.app/)     |
+| 08  | [Form Wave](https://github.com/bayramhayri/50projects50days/tree/master/08-form-wave-animation/)                     | [Live Demo](https://xenodochial-bartik-dcdcb6.netlify.app/)   |
+| 09  | [Sound Board](https://github.com/bayramhayri/50projects50days/tree/master/09-sound-board/)                           | [Live Demo](https://eager-turing-3f2596.netlify.app/)         |
+| 10  | [Dad Jokes](https://github.com/bayramhayri/50projects50days/tree/master/10-dad-jokes/)                               | [Live Demo](https://trusting-jepsen-74df39.netlify.app/)      |
+| 11  | [Event Keycodes](https://github.com/bayramhayri/50projects50days/tree/master/11-event-keycodes/)                     | [Live Demo](https://dreamy-pare-5f7d30.netlify.app/)          |
+| 12  | [Faq Collapse](https://github.com/bayramhayri/50projects50days/tree/master/12-faq-collapse/)                         | [Live Demo](https://confident-clarke-9d121b.netlify.app/)     |
+| 13  | [Random Choice Picker](https://github.com/bayramhayri/50projects50days/tree/master/13-random-choice-picker/)         | [Live Demo](https://cocky-swartz-58cb70.netlify.app/)         |
+| 14  | [Animated Navigation](https://github.com/bayramhayri/50projects50days/tree/master/14-animated-navigation/)           | [Live Demo](https://jovial-carson-16ac5e.netlify.app/)        |
+| 15  | [Incrementing Counter](https://github.com/bayramhayri/50projects50days/tree/master/15-increment-counter/)            | [Live Demo](https://gracious-hermann-2b1c19.netlify.app/)     |
+| 16  | [Drink Water](https://github.com/bayramhayri/50projects50days/tree/master/16-drink-water/)                           | [Live Demo](https://frosty-franklin-b80711.netlify.app/)      |
+| 17  | [Movie App](https://github.com/bayramhayri/50projects50days/tree/master/17-movie-app/)                               | [Live Demo](https://suspicious-albattani-3d4fc3.netlify.app/) |
+| 18  | [Background Slider](https://github.com/bayramhayri/50projects50days/tree/master/18-background-slider/)               | [Live Demo](https://vigorous-lamarr-2890f7.netlify.app/)      |
+| 19  | [Theme Clock](https://github.com/bayramhayri/50projects50days/tree/master/19-theme-clock)                            | [Live Demo](https://blissful-kowalevski-fdaa6d.netlify.app/)  |
