@@ -28,3 +28,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 22  | [Drawing App](https://github.com/bayramhayri/50projects50days/tree/master/22-drawing-app/)                           | [Live Demo](https://stoic-jones-013c35.netlify.app/)          |
 | 23  | [Kinetic Loader](https://github.com/bayramhayri/50projects50days/tree/master/23-kinetic-loader/)                     | [Live Demo](https://fervent-swirles-91c9c2.netlify.app/)      |
 | 24  | [Content Placeholder](https://github.com/bayramhayri/50projects50days/tree/master/24-content-placeholder/)           | [Live Demo](https://confident-lichterman-7a635e.netlify.app/) |
+| 25  | [Sticky Navigation](https://github.com/bayramhayri/50projects50days/tree/master/25-sticky-navigation/)               | [Live Demo](https://awesome-ride-a695b6.netlify.app/)         |
