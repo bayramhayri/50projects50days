@@ -30,3 +30,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 24  | [Content Placeholder](https://github.com/bayramhayri/50projects50days/tree/master/24-content-placeholder/)           | [Live Demo](https://confident-lichterman-7a635e.netlify.app/) |
 | 25  | [Sticky Navigation](https://github.com/bayramhayri/50projects50days/tree/master/25-sticky-navigation/)               | [Live Demo](https://awesome-ride-a695b6.netlify.app/)         |
 | 26  | [Vertical Slider](https://github.com/bayramhayri/50projects50days/tree/master/26-vertical-slider/)                   | [Live Demo](https://musing-booth-ac828f.netlify.app/)         |
+| 27  | [Toast Notification](https://github.com/bayramhayri/50projects50days/tree/master/27-toast-notification/)             | [Live Demo](https://suspicious-ritchie-1407fa.netlify.app/)   |
