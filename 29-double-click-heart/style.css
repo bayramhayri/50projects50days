@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+* {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+  overflow: hidden;
+  height: 100vh;
+  margin: 0;
+}
+
+h3 {
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 1.9rem;
+}
+
+small {
+  display: block;
+  margin-bottom: 1.8rem;
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+.fa-heart {
+  color: #ef4f4f;
+}
+
+.loveMe {
+  height: 500px;
+  width: 340px;
+  background: url('https://source.unsplash.com/random') no-repeat center
+    center/cover;
+  margin: auto;
+  cursor: pointer;
+  max-width: 100%;
+  position: relative;
+  border-radius: 0.6rem;
+  border: none;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.loveMe .fa-heart {
+  position: absolute;
+  animation: grow 0.6s linear;
+  transform: translate(-50%, -50%) scale(0);
+}
+
+@keyframes grow {
+  to {
+    transform: translate(-50%, -50%) scale(10);
+    opacity: 0;
+  }
+}
