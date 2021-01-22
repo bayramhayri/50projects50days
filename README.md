@@ -35,3 +35,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 29  | [Double Click Heart](https://github.com/bayramhayri/50projects50days/tree/master/29-double-click-heart/)             | [Live Demo](https://stupefied-fermi-63929d.netlify.app/)      |
 | 30  | [Auto Text Effect](https://github.com/bayramhayri/50projects50days/tree/master/30-auto-text-effect/)                 | [Live Demo](https://ecstatic-shannon-870c3a.netlify.app/)     |
 | 31  | [Password Generator](https://github.com/bayramhayri/50projects50days/tree/master/31-password-generator/)             | [Live Demo](https://serene-jepsen-a06a09.netlify.app/)        |
+| 32  | [Style Checkboxes](https://github.com/bayramhayri/50projects50days/tree/master/32-style-checkboxes/)                 | [Live Demo](https://wizardly-pare-ee6eb2.netlify.app/)        |
