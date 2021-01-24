@@ -37,3 +37,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 31  | [Password Generator](https://github.com/bayramhayri/50projects50days/tree/master/31-password-generator/)             | [Live Demo](https://serene-jepsen-a06a09.netlify.app/)          |
 | 32  | [Style Checkboxes](https://github.com/bayramhayri/50projects50days/tree/master/32-style-checkboxes/)                 | [Live Demo](https://wizardly-pare-ee6eb2.netlify.app/)          |
 | 33  | [Notes App](https://github.com/bayramhayri/50projects50days/tree/master/33-notes-app/)                               | [Live Demo](https://mystifying-nightingale-f1c4e8.netlify.app/) |
+| 34  | [Animated Countdown](https://github.com/bayramhayri/50projects50days/tree/master/34-animated-countdown/)             | [Live Demo](https://hungry-lalande-b80448.netlify.app/)         |
