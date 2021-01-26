@@ -39,3 +39,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 33  | [Notes App](https://github.com/bayramhayri/50projects50days/tree/master/33-notes-app/)                               | [Live Demo](https://mystifying-nightingale-f1c4e8.netlify.app/) |
 | 34  | [Animated Countdown](https://github.com/bayramhayri/50projects50days/tree/master/34-animated-countdown/)             | [Live Demo](https://hungry-lalande-b80448.netlify.app/)         |
 | 35  | [Image Carousel](https://github.com/bayramhayri/50projects50days/tree/master/35-image-carousel/)                     | [Live Demo](https://cranky-carson-fe96e1.netlify.app/)          |
+| 36  | [Hoverboard](https://github.com/bayramhayri/50projects50days/tree/master/36-hoverboard/)                             | [Live Demo](https://laughing-mcnulty-b9bb74.netlify.app/)       |
