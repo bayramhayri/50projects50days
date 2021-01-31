@@ -44,3 +44,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 38  | [Mobile Tab Navigation](https://github.com/bayramhayri/50projects50days/tree/master/38-mobile-tab-navigation/)               | [Live Demo](https://musing-lamport-39ebbb.netlify.app/)         |
 | 39  | [Password Strength Background](https://github.com/bayramhayri/50projects50days/tree/master/39-password-strength-background/) | [Live Demo](https://compassionate-knuth-1941f5.netlify.app/)    |
 | 40  | [3D Boxes Background](https://github.com/bayramhayri/50projects50days/tree/master/40-3d-boxes-background/)                   | [Live Demo](https://festive-noether-1d476e.netlify.app/)        |
+| 41  | [Verify Account](https://github.com/bayramhayri/50projects50days/tree/master/41-verify-account/)                             | [Live Demo](https://flamboyant-perlman-76b6e5.netlify.app/)     |
