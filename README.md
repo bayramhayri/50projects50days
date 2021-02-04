@@ -48,3 +48,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 42  | [Live User Filter](https://github.com/bayramhayri/50projects50days/tree/master/42-live-user-filter/)                         | [Live Demo](https://practical-gates-fcc2cb.netlify.app/)          |
 | 43  | [Feedback Ui Design](https://github.com/bayramhayri/50projects50days/tree/master/43-feedback-ui-design/)                     | [Live Demo](https://wizardly-raman-34cecf.netlify.app/)           |
 | 44  | [Custom Range Slider](https://github.com/bayramhayri/50projects50days/tree/master/44-custom-range-slider/)                   | [Live Demo](https://optimistic-chandrasekhar-41ce40.netlify.app/) |
+| 45  | [Netflix Mobile Navigation](https://github.com/bayramhayri/50projects50days/tree/master/45-netflix-mobile-navigation/)       | [Live Demo](https://amazing-meninsky-8c6575.netlify.app/)         |
