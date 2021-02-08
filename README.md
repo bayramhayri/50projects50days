@@ -51,4 +51,5 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 45  | [Netflix Mobile Navigation](https://github.com/bayramhayri/50projects50days/tree/master/45-netflix-mobile-navigation/)       | [Live Demo](https://amazing-meninsky-8c6575.netlify.app/)         |
 | 46  | [Quiz App](https://github.com/bayramhayri/50projects50days/tree/master/46-quiz-app/)                                         | [Live Demo](https://admiring-easley-4c1404.netlify.app/)          |
 | 47  | [Testimonial Box Switcher](https://github.com/bayramhayri/50projects50days/tree/master/47-testimonial-box-switcher/)         | [Live Demo](https://upbeat-johnson-773d29.netlify.app/)           |
-| 48  | [Random Image Feed](https://github.com/bayramhayri/50projects50days/tree/master/48-random-image-feed)                        | [Live Demo](https://epic-nobel-07a0f4.netlify.app/)               |
+| 48  | [Random Image Feed](https://github.com/bayramhayri/50projects50days/tree/master/48-random-image-feed/)                       | [Live Demo](https://epic-nobel-07a0f4.netlify.app/)               |
+| 49  | [Todo List](https://github.com/bayramhayri/50projects50days/tree/master/49-todo-list/)                                       | [Live Demo](https://brave-visvesvaraya-e3b2b6.netlify.app/)       |
