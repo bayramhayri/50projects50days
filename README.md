@@ -53,3 +53,4 @@ My learning journey with ["50 Projects In 50 Days - HTML, CSS & JavaScript"](htt
 | 47  | [Testimonial Box Switcher](https://github.com/bayramhayri/50projects50days/tree/master/47-testimonial-box-switcher/)         | [Live Demo](https://upbeat-johnson-773d29.netlify.app/)           |
 | 48  | [Random Image Feed](https://github.com/bayramhayri/50projects50days/tree/master/48-random-image-feed/)                       | [Live Demo](https://epic-nobel-07a0f4.netlify.app/)               |
 | 49  | [Todo List](https://github.com/bayramhayri/50projects50days/tree/master/49-todo-list/)                                       | [Live Demo](https://brave-visvesvaraya-e3b2b6.netlify.app/)       |
+| 50  | [Catch The Insect](https://github.com/bayramhayri/50projects50days/tree/master/50-catch-the-insect/)                         | [Live Demo](https://quizzical-perlman-d3bf40.netlify.app/)        |
